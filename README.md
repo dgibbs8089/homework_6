@@ -4,3 +4,4 @@ The purpose of this application is to supply you with current weather data from 
 
 The images below should show you what to expect during a search as well as how your saved searches will be presented. 
 
+![Alt Text](homework_6\images\4juamp.jpg)
